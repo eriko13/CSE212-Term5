@@ -1,4 +1,4 @@
-public class Person
+ public class Person
 {
     public readonly string Name;
     public int Turns { get; set; }
